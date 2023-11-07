@@ -1,7 +1,7 @@
 import argparse
 
 from Botapp import bot
-from Botapp.models import Customer
+
 
 def argsParser():
     parser = argparse.ArgumentParser()
