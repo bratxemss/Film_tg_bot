@@ -1,0 +1,9 @@
+PEEWEE_CONNECTION = "aiosqlite:///db.sqlite"
+
+TELEGRAM_API_ID = 28815058
+TELEGRAM_API_HASH = "2eda53b9353bd1e2ec9a313ba9cded8a"
+
+TELEGRAM_BOT_NAME = "MVstation"
+PYROGRAM_BOT_TOKEN = "6480393661:AAFOHoYvhgO21Cv3VBmZqh_DBqNdHWoDOvw"
+
+#t.me/MVstation_bot

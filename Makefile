@@ -1,5 +1,5 @@
 VIRTUAL_ENV     ?= venv
-PROJECT         ?= Bot
+PROJECT         ?= Botapp
 
 all: $(VIRTUAL_ENV)
 

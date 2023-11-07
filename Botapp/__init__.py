@@ -16,7 +16,7 @@ class Bot(Client):
             bot_token=self.cfg.PYROGRAM_BOT_TOKEN,
             api_id=self.cfg.TELEGRAM_API_ID,
             api_hash=self.cfg.TELEGRAM_API_HASH,
-            plugins=dict(root="Bot/handlers")
+            plugins=dict(root="Botapp/handlers")
         )
 
 
