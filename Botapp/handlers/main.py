@@ -45,6 +45,7 @@ async def helper(client, message):
 async def process_operations(client, message):
     if message.text == "Chose language of searching":
         await client.send_message()
+        #do select for user
     elif message.text == "Find film info":
         await client.send_message()
     elif message.text == "Get recommendations":
